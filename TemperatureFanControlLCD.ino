@@ -7,7 +7,7 @@
  *               V 1.0.1 RC               *
  ******************************************
  
- (c) Dylan Van Assche, you use this sketch for free! It's opensource :)
+ (c) Dylan Van Assche, you can use this sketch for free! It's opensource :)
  */
 
 #include <SoftPWM_timer.h>
