@@ -1,4 +1,4 @@
-Temperature-Fan-Control-With-LCD
+Temperature Fan Control With LCD
 ================================
 
 A fan controlled by a temperaturesensor and an Arduino. The current temperature (in °C) and fanpower (in %) is shown on a LCD display.
