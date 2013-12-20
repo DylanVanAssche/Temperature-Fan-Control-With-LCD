@@ -5,4 +5,6 @@ A fan controlled by a temperaturesensor and an Arduino. The current temperature 
 
 Produced by Dylan Van Assche (2013). I'm not responsible for any damage to your stuff!
 
-Library EAGLE: http://www.faludi.com/2008/10/07/arduino-avr-library-for-eagle-layout-editor/
+Libraries for EAGLE: 
+* http://www.faludi.com/2008/10/07/arduino-avr-library-for-eagle-layout-editor/
+* https://github.com/zumbik/Eagle-Libraries/blob/master/lm35.lbr
