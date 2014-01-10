@@ -16,7 +16,7 @@
 #include <TimedAction.h>
 
 // Defines the pins for the LCD screen.
-LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+LiquidCrystal lcd(10, 11, 12, 4, 3, 2);
 
 // Basic declarations.
 int temperature    =    0;
@@ -88,5 +88,3 @@ void UpdateLCD()
   }
 
 }
-
-
